@@ -245,3 +245,4 @@ sudo systemctl reload apache2
 ```shell
 sudo -u www-data bundle exec rake assets:clobber RAILS_ENV="production"
 ```
+#### refer link > https://www.redmineadvisor.com/articles/6_0/install/ubuntu24/
